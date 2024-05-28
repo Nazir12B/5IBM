@@ -8,7 +8,7 @@ Ce projet utilise OpenCV et le modèle de détection d'objets YOLO pour détecte
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/Nazir12B/5IBM.git
-   cd projet-détection
+   cd 5IBM-main
 
 ## Installation
 

@@ -7,7 +7,7 @@ Ce projet utilise OpenCV et le modèle de détection d'objets YOLO pour détecte
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-dépôt/projet-détection.git
+   git clone https://github.com/Nazir12B/5IBM.git
    cd projet-détection
 
 ## Installation
@@ -18,3 +18,6 @@ Ce projet utilise OpenCV et le modèle de détection d'objets YOLO pour détecte
 ## Demarrage de la detction 
 3. Lancer le main
     python main.py
+
+## Ajustement de la detction 
+4. Vous pouvez modifier la liste en ajoutant le nom  de l'élement a détecter dans le ficher main.py en ajoutant l'élément a la table juste après person par exemple elf.target_classes = ["laptop", "mouse","person"] 

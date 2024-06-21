@@ -13,10 +13,12 @@ Ce projet utilise OpenCV et le modèle de détection d'objets YOLO pour détecte
 ## Installation
 
 2. Installer les dépendences :
+    ```bash
     pip install -r requirements.txt
 
 ## Demarrage de la detction 
 3. Lancer le main
+    ```bash
     python main.py
 
 ## Ajustement de la detction 
@@ -24,4 +26,5 @@ Ce projet utilise OpenCV et le modèle de détection d'objets YOLO pour détecte
 
 ## Arrêt de la detction 
 3. Appuyez la touche q de votre clavier pour arrêter le programme
+    ```bash
     q

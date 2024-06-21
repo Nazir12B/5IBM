@@ -2,3 +2,5 @@ opencv-python>=4.5
 torch
 torchvision
 matplotlib
+requests
+setuptools
